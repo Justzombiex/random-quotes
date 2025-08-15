@@ -1,6 +1,6 @@
 {
-  "name": "markdown-previewer",
-  "description": "Markdown previewer for freecodecamp course",
+  "name": "random-quotes",
+  "description": "Random Quote Machine for freecodecamp course",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "marked": "^16.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
