@@ -1,8 +1,9 @@
-import QuoteBox from "./Components/QuoteBox";
+import Previewer from "./Components/Previewer";
+import "./App.css";
 
 function App() {
   return (
-   <QuoteBox/>
+   <Previewer></Previewer>
   );
 }
 
